@@ -2,7 +2,7 @@
 
 [![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supun156)](https://supun156.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supun156&langs_count=8)](https://supun156.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supun156&langs_count=10)](https://supun156.github.io/)
 <!--
 **supun156/supun156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
